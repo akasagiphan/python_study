@@ -4,13 +4,8 @@
 # In[1]:
 
 
-print("CodeGym Online – Hoc lap trinh Python")
-
-
-# In[2]:
-
-
 print("Tên: Phan Nguyễn Thành Trung")
-print("Giới tính: Nam")
-print("Nơi ở: Hồ Chí Minh")
+print("Ngày sinh: 1994-04-03")
+print("Địa chỉ: Hồ Chí Minh")
+print("Mục đích học: Xử lý và phân tích dữ liệu")
 
