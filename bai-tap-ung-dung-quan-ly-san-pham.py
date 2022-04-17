@@ -87,7 +87,7 @@ while exit == False:
             print("Danh sách sản phẩm hiện tại:",product_list)
             print("----------------------------")
         
-        elif option == 4:
+        else option == 4:
             print("Chương trình kết thúc.")
             print("Danh sách sản phẩm cuối cùng:",product_list)
             break
